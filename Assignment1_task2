@@ -1,0 +1,5 @@
+response = input("how are you today?(good/bad)")
+if response == "good":
+    print("I'm glad to hear that!")
+else:
+    print("I'm sorry to hear that, hope your day gets better.")
